@@ -31,7 +31,7 @@ for txid in transactions:
     # Add the value of this transaction to the total 
     block_value = block_value + tx_value
 
-print("Total value in block: ", block_value)
+print "Total value in block: ", block_value
     
 
 
